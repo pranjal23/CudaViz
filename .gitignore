@@ -191,3 +191,6 @@ Temporary Items
 
 # But ignore any compiled shaders in shaders directory
 shaders/*.spv
+
+# keep personal notes local
+my_notes.md
