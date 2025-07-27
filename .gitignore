@@ -193,4 +193,4 @@ Temporary Items
 shaders/*.spv
 
 # keep personal notes local
-my_notes.md
+my_notes/
