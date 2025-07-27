@@ -124,14 +124,17 @@ This application provides interactive visualization of various mathematical func
 ### Controls
 
 #### Visualization Modes
-- **1**: Mandelbrot Set
-- **2**: Julia Set
-- **3**: Sine Wave
-- **4**: Heat Equation
-- **5**: Game of Life
-- **6**: Perlin Noise
-- **7**: Wave Interference
-- **8**: Fluid Simulation
+
+| Mode (Key) | Name                | Preview                                  |
+|------|---------------------|------------------------------------------|
+| 1    | Mandelbrot Set      | ![Mandelbrot Set](docs/1.jpg)            |
+| 2    | Julia Set           | ![Julia Set](docs/2.jpg)                 |
+| 3    | Sine Wave           | ![Sine Wave](docs/3.jpg)                 |
+| 4    | Heat Equation       | ![Heat Equation](docs/4.jpg)             |
+| 5    | Game of Life        | ![Game of Life](docs/5.jpg)              |
+| 6    | Perlin Noise        | ![Perlin Noise](docs/6.jpg)              |
+| 7    | Wave Interference   | ![Wave Interference](docs/7.jpg)         |
+| 8    | Fluid Simulation    | ![Fluid Simulation](docs/8.jpg)          |
 
 #### Navigation
 - **Mouse Drag**: Pan the view
